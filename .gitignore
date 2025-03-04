@@ -1,0 +1,10 @@
+# Virtual env
+env/
+venv/
+.env/
+.venv/
+
+# Python files
+build/
+__pycache__/
+cleaner.egg-info/
